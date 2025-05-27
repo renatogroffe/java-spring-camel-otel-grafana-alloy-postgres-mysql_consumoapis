@@ -1,0 +1,2 @@
+# java-spring-camel-otel-grafana-alloy-postgres-mysql_consumoapis
+Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Grafana + OpenTelemetry, com consumo de APIs REST (uma destas depende de bases PostgreSQL + MySQL). Inclui o uso de Docker Compose para a subida de ambiente que faz uso da stack Grafana, incluindo o serviço Grafana Alloy (baseado em OTLP).
