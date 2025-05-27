@@ -5,7 +5,7 @@ APIs REST utilizadas por este projeto:
 - [**Contagem de acessos (.NET 9 + ASP.NET Core)**](https://github.com/renatogroffe/aspnetcore9-otel-grafana-alloy-postgres-mysql_apicontagem)
 - [**Saudações (Node.js)**](https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes)
 
-Agents Java do Grafana: **https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases**
+Agents Java do Grafana: **https://github.com/grafana/grafana-opentelemetry-java/releases**
 
 Documentação: **https://grafana.com/docs/grafana-cloud/monitor-applications/application-observability/instrument/jvm/**
 
